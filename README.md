@@ -2,7 +2,7 @@
 
 Repository accompanying the paper:
 
-## Resolution Dependant GAN Interpolation for Controllable Image Synthesis Between Domains
+## Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains
 
 [Arxiv](https://arxiv.org/abs/2010.05334)
 
