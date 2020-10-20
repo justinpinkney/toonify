@@ -10,7 +10,7 @@ Repository accompanying the paper:
 
 Links to datasets used in the paper
 
-- Ukiyo-e faces (coming soon)
+- [Ukiyo-e faces](https://drive.google.com/file/d/1wweTdbEVcLf_i0Q1MwwZj7IUBPJ4dBKe/view?usp=sharing)
 - [Cartoon faces](https://mega.nz/file/HslSXS4a#7UBanJTjJqUl_2Z-JmAsreQYiJUKC-8UlZDR0rUsarw)
 
 ## Code
