@@ -3,9 +3,10 @@
 Repository accompanying the paper:
 
 ## Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains
+[![arXiv](https://img.shields.io/badge/arXiv-2010.05334-b31b1b.svg)](https://arxiv.org/abs/2010.05334)
 
 Accepted to the [Neurips 2020 Machine Learning for Creativity and Design
-NeurIPS 2020 Workshop](https://neurips2020creativity.github.io/). [Arxiv](https://arxiv.org/abs/2010.05334)
+NeurIPS 2020 Workshop](https://neurips2020creativity.github.io/). 
 
 ## Datasets
 
